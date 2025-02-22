@@ -2,18 +2,14 @@
 ---
 ## 👥 Authors
 
-- **Akshat Jamadagni**  - [GitHub: Akshatjamadagni](https://github.com/Akshatjamadagni)  
-- **Aditya Prakash**  - [GitHub: Aditya-Prakash-25](https://github.com/Aditya-Prakash-25)  
+
 - **Shashank Pant**  - [GitHub: shashankpantiitbhilai](https://github.com/shashankpantiitbhilai)  
-- **Anand Vardhan**  - [GitHub: Nandostream11](https://github.com/Nandostream11)
+
 
 ---
 
 ## 📊 GitHub Stats
 ![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashankpantiitbhilai&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshatjamadagni&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Prakash-25&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Nandostream11's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandostream11&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
@@ -279,12 +275,6 @@ MIT License - see [LICENSE.md](License.md)
 - BlenderBot team (Facebook AI)
 - COMET researchers (Bosselut et al., 2019)
 - RECCON dataset team (Poria et al., 2021)
-
-## Individual Contributions
-- **Akshat Kumar**  - Developed the code and theory of the project.
-- **Aditya Prakash**  - Developed the code developed and theory of the project.
-- **Anand Vardhan**  - Formulated the project report and theoretical buildup of the project.
-- **Shashank Pant**  - Theoritical buildup for code and UI of the chat system
 
 
 ## References
