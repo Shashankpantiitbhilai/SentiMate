@@ -15,7 +15,7 @@
 
 ## 🚀 Important Repository Info
 
-- **Repository URL**: [Emotional-Support-Conversation-with-fine-grained-emotion-and-emotional-dynamics](https://github.com/Akshatjamadagni/Emotional-Support-Conversation-with-fine-grained-emotion-and-emotional-dynamics)  
+
 - **Latest Release**: [v1.0.0](https://github.com/Akshatjamadagni/Emotional-Support-Conversation-with-fine-grained-emotion-and-emotional-dynamics/releases/tag/v1.0.0)  
 - **License**: ![License Badge](https://img.shields.io/github/license/Akshatjamadagni/Emotional-Support-Conversation-with-fine-grained-emotion-and-emotional-dynamics?color=blue)  
 - **Build Status**: ![Build Status](https://img.shields.io/github/workflow/status/Akshatjamadagni/Emotional-Support-Conversation-with-fine-grained-emotion-and-emotional-dynamics/CI?label=build&logo=github)  
